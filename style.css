@@ -126,3 +126,7 @@ th {
   margin: 0 2.1%;
   flex: 50%;
 }
+
+.hr {
+	width: 100%;
+}
