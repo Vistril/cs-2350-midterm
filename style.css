@@ -123,5 +123,6 @@ th {
 .button {
   border-style: solid;
   text-align:center;
+  margin: 0 2.5%
   flex: 50%;
 }
