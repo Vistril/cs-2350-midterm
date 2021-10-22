@@ -127,6 +127,14 @@ th {
   flex: 50%;
 }
 
+.main {
+	display: flex;
+}
+.maincol {
+	flex: 50%;
+	margin: 0 50%;
+}
+
 .hr {
 	margin: 30px -70px 70px;
 }
