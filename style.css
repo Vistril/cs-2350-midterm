@@ -35,7 +35,7 @@ h5 {
 
 p {
     font-family:'Space Mono';
-    font-size: 16pt;
+    font-size: 20px;
 }
 
 body {
@@ -123,6 +123,6 @@ th {
 .button {
   border-style: solid;
   text-align:center;
-  margin: 0 2.5%;
+  margin: 0 2.1%;
   flex: 50%;
 }
