@@ -45,7 +45,6 @@ body {
 
 .topnav {
     overflow: hidden;
-    background-color: #333;
 }
 
 .topnav a {
@@ -122,5 +121,6 @@ th {
 }
 
 .button {
+  text-align:center;
   flex: 50%;
 }
